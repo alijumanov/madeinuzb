@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c6aca77.chunk.css",
+    "main.js": "/static/js/main.4f7bcc7f.chunk.js",
+    "main.js.map": "/static/js/main.4f7bcc7f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5db9d757.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5db9d757.js.map",
+    "static/css/2.29dd25af.chunk.css": "/static/css/2.29dd25af.chunk.css",
+    "static/js/2.5af0d060.chunk.js": "/static/js/2.5af0d060.chunk.js",
+    "static/js/2.5af0d060.chunk.js.map": "/static/js/2.5af0d060.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.29dd25af.chunk.css.map": "/static/css/2.29dd25af.chunk.css.map",
+    "static/css/main.0c6aca77.chunk.css.map": "/static/css/main.0c6aca77.chunk.css.map",
+    "static/js/2.5af0d060.chunk.js.LICENSE.txt": "/static/js/2.5af0d060.chunk.js.LICENSE.txt",
+    "static/media/Munis2.a58e0f9c.mp4": "/static/media/Munis2.a58e0f9c.mp4",
+    "static/media/arrowHr.ef872b1b.svg": "/static/media/arrowHr.ef872b1b.svg",
+    "static/media/audio.99f437b0.mp3": "/static/media/audio.99f437b0.mp3",
+    "static/media/bgimg.7098e8e4.png": "/static/media/bgimg.7098e8e4.png",
+    "static/media/burgerblack.16914054.svg": "/static/media/burgerblack.16914054.svg",
+    "static/media/car.37ad2160.svg": "/static/media/car.37ad2160.svg",
+    "static/media/furniture.2e7ddf87.png": "/static/media/furniture.2e7ddf87.png",
+    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs",
+    "static/media/heart.9ef6044b.svg": "/static/media/heart.9ef6044b.svg",
+    "static/media/money.c04e3fd3.svg": "/static/media/money.c04e3fd3.svg",
+    "static/media/p1.6f5b14c4.png": "/static/media/p1.6f5b14c4.png",
+    "static/media/p2.cdc07bc6.png": "/static/media/p2.cdc07bc6.png",
+    "static/media/payment.2edd522a.svg": "/static/media/payment.2edd522a.svg",
+    "static/media/sale.03b0ddca.png": "/static/media/sale.03b0ddca.png",
+    "static/media/slider.4712fea6.png": "/static/media/slider.4712fea6.png",
+    "static/media/support.c3ac8fe2.svg": "/static/media/support.c3ac8fe2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5db9d757.js",
+    "static/css/2.29dd25af.chunk.css",
+    "static/js/2.5af0d060.chunk.js",
+    "static/css/main.0c6aca77.chunk.css",
+    "static/js/main.4f7bcc7f.chunk.js"
+  ]
+}
